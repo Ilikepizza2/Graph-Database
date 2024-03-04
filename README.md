@@ -1,4 +1,4 @@
-# Knowledge Graph Construction and Exploration with Rebel and Gemini
+# Graph database with CRUD and save/load operations
 ### [Link to colab notebook](https://colab.research.google.com/drive/1VqDbCCaUuNtWBxmTBOz7lotii17BFwS4?usp=sharing)
 This project demonstrates building and exploring knowledge graphs (KGs) using either of the two models: Rebel(seq2seq) and Gemini(Google LLM). 
 
